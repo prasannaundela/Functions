@@ -1,0 +1,44 @@
+#Arithmetic Operators
+
+x=int(input())
+y=int(input())
+def sum(a,b):
+    print(x+y)
+
+sum(x,y)
+    
+def sub(x,y):
+    print(x-y)
+sub(x,y)
+    
+def mul(x,y):
+    print(x*y)
+mul(x,y)
+    
+def mod(x,y):
+    print(x/y)
+mod(x,y)
+    
+def rem(x,y):
+    print(x//y)
+rem(x,y)
+    
+def floor(x,y):
+    print(x%y)
+floor(x,y) 
+    
+   
+#Sqaure Root
+
+n=int(input())
+print(n**2)
+
+
+#Cube Root
+
+i=int(input())
+print(i**3)
+
+
+
+   
